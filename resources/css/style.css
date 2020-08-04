@@ -127,3 +127,21 @@ header {
 .main-nav li a:active {
     border-bottom: 1px solid #fff;
 }
+
+
+/*--------------------------------------------------*/
+/* MAIN SECTION */
+/*--------------------------------------------------*/
+
+.teacher-photo {
+    display: inline-block;
+    height: 200px;
+    width: auto;
+    float:left;
+    margin-top: 50px;
+}
+
+.bio {
+    display: inline-block;
+    margin: 30px 300px;
+}
