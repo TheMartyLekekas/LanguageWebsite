@@ -24,7 +24,7 @@ html {
 
 .row {
     max-width: 1140px;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 
@@ -40,6 +40,11 @@ h1 {
     word-spacing: 6px;
 }
 
+h2 {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+}
 
 /* ----- BUTTONS ----- */
 
@@ -143,5 +148,5 @@ header {
 
 .bio {
     display: inline-block;
-    margin: 30px 300px;
+    margin: 30px 100px;
 }
